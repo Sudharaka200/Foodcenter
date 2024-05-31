@@ -1,0 +1,269 @@
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Orders.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Profile.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu2.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminCompleorders.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminUserDeatils.resources
+E:\NIBM\GUI\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminCompleorders.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminUserDeatils.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu2.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Orders.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Profile.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\Copy2\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Core.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Azure.Identity.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.Data.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminUserDeatils.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cart.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu2.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Orders.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Profile.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\NIBM\GUI\databse eddite copy\Food Resturant\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
